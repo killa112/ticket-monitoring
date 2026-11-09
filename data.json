@@ -1,0 +1,1075 @@
+{
+  "props": {
+    "pageProps": {
+      "type": "mdp_page",
+      "data": {
+        "contentId": "176276",
+        "cityName": "hyderabad",
+        "cityLabel": "Hyderabad",
+        "isCSR": false,
+        "shouldIndex": true,
+        "footerSeoData": {
+          "baseUrl": "https://www.district.in",
+          "items": [
+            {
+              "heading_type": "<h2>Movies Now Showing in {city} – Latest Releases &amp; Showtimes</h2>",
+              "description": "<p>Book tickets for the latest movies now showing in {city} theatres — Bollywood blockbusters, Hollywood releases, and regional hits. Get real-time showtimes, instant seat selection, and the best deals at PVR, INOX, Cinepolis &amp; more on District. {movie}</p>",
+              "configs": {
+                "city": {
+                  "place_holder_data": [
+                    {
+                      "type": "cities",
+                      "id": "12",
+                      "name": "Hyderabad",
+                      "title": "Hyderabad",
+                      "url": "/movies/hyderabad-movie-tickets-in-hyderabad-MV12"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "cities",
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_text_only",
+                    "vertical": "movies"
+                  }
+                },
+                "movie": {
+                  "place_holder_data": [
+                    {
+                      "type": "movies",
+                      "id": "176276",
+                      "name": "Ramayana",
+                      "title": "Ramayana",
+                      "url": "/movies/ramayana-movie-tickets-in-hyderabad-MV176276"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "233181",
+                      "name": "Scene",
+                      "title": "Scene",
+                      "url": "/movies/scene-movie-tickets-in-hyderabad-MV233181"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "211590",
+                      "name": "Aadarsha Kutumbam House No: 47",
+                      "title": "Aadarsha Kutumbam House No: 47",
+                      "url": "/movies/aadarsha-kutumbam-house-no-47-movie-tickets-in-hyderabad-MV211590"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "238330",
+                      "name": "Summer Holidays",
+                      "title": "Summer Holidays",
+                      "url": "/movies/summer-holidays-movie-tickets-in-hyderabad-MV238330"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "201083",
+                      "name": "The Cat in the Hat",
+                      "title": "The Cat in the Hat",
+                      "url": "/movies/the-cat-in-the-hat-movie-tickets-in-hyderabad-MV201083"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "233874",
+                      "name": "Mahasakthi",
+                      "title": "Mahasakthi",
+                      "url": "/movies/mahasakthi-movie-tickets-in-hyderabad-MV233874"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "187766",
+                      "name": "Jailer 2",
+                      "title": "Jailer 2",
+                      "url": "/movies/jailer-2-movie-tickets-in-hyderabad-MV187766"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "216077",
+                      "name": "Cult",
+                      "title": "Cult",
+                      "url": "/movies/cult-movie-tickets-in-hyderabad-MV216077"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "219550",
+                      "name": "Udta Teer",
+                      "title": "Udta Teer",
+                      "url": "/movies/udta-teer-movie-tickets-in-hyderabad-MV219550"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "235763",
+                      "name": "Rajini: The Jailer 2",
+                      "title": "Rajini: The Jailer 2",
+                      "url": "/movies/rajini-the-jailer-2-movie-tickets-in-hyderabad-MV235763"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "223185",
+                      "name": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+                      "title": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+                      "url": "/movies/doraemon-the-movie-new-nobita-and-the-castle-of-the-undersea-devil-movie-tickets-in-hyderabad-MV223185"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "194537",
+                      "name": "Spider-Man: Brand New Day",
+                      "title": "Spider-Man: Brand New Day",
+                      "url": "/movies/spider-man-brand-new-day-movie-tickets-in-hyderabad-MV194537"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "214106",
+                      "name": "Ranabaali",
+                      "title": "Ranabaali",
+                      "url": "/movies/ranabaali-movie-tickets-in-hyderabad-MV214106"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "236546",
+                      "name": "Disco",
+                      "title": "Disco",
+                      "url": "/movies/disco-movie-tickets-in-hyderabad-MV236546"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "220590",
+                      "name": "Verity",
+                      "title": "Verity",
+                      "url": "/movies/verity-movie-tickets-in-hyderabad-MV220590"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "215820",
+                      "name": "SKS Mayookha",
+                      "title": "SKS Mayookha",
+                      "url": "/movies/sks-mayookha-movie-tickets-in-hyderabad-MV215820"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "176127",
+                      "name": "Mookuthi Amman 2",
+                      "title": "Mookuthi Amman 2",
+                      "url": "/movies/mookuthi-amman-2-movie-tickets-in-hyderabad-MV176127"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "231341",
+                      "name": "Geethanjali (1989)",
+                      "title": "Geethanjali (1989)",
+                      "url": "/movies/geethanjali-1989-movie-tickets-in-hyderabad-MV231341"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "movies",
+                    "count": 20,
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "url_format": "1",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_hyperlink",
+                    "vertical": "movies"
+                  }
+                }
+              },
+              "is_enabled": true,
+              "type": "footer",
+              "titleClassName": "dds-bg-transparent dds-bg-none dds-border-0 dds-border-solid dds-border-transparent dds-border-0"
+            },
+            {
+              "heading_type": "<h2>Upcoming Movie Releases in {city} – New Films Coming Soon to Theatres</h2>",
+              "description": "<p>Plan ahead for the most awaited Bollywood, Hollywood, and regional releases in {city}. Browse upcoming movies, watch trailers, check release dates, and book your seats the moment advance booking opens on District. {movie}</p>",
+              "configs": {
+                "city": {
+                  "place_holder_data": [
+                    {
+                      "type": "cities",
+                      "id": "12",
+                      "name": "Hyderabad",
+                      "title": "Hyderabad",
+                      "url": "/movies/hyderabad-movie-tickets-in-hyderabad-MV12"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "cities",
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_text_only",
+                    "vertical": "movies"
+                  }
+                },
+                "movie": {
+                  "place_holder_data": [
+                    {
+                      "type": "movies",
+                      "id": "196977",
+                      "name": "Bhogi",
+                      "title": "Bhogi",
+                      "url": "/movies/bhogi-movie-tickets-in-hyderabad-MV196977"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "211406",
+                      "name": "G.O.A.T",
+                      "title": "G.O.A.T",
+                      "url": "/movies/g-o-a-t-movie-tickets-in-hyderabad-MV211406"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "238497",
+                      "name": "Super Gennie",
+                      "title": "Super Gennie",
+                      "url": "/movies/super-gennie-movie-tickets-in-hyderabad-MV238497"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "238560",
+                      "name": "Jayannth & The Jingo Pen",
+                      "title": "Jayannth & The Jingo Pen",
+                      "url": "/movies/jayannth-the-jingo-pen-movie-tickets-in-hyderabad-MV238560"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "235370",
+                      "name": "Aadi Anant",
+                      "title": "Aadi Anant",
+                      "url": "/movies/aadi-anant-movie-tickets-in-hyderabad-MV235370"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "237043",
+                      "name": "Bouma",
+                      "title": "Bouma",
+                      "url": "/movies/bouma-movie-tickets-in-hyderabad-MV237043"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "236787",
+                      "name": "Laagi Chhoote Na",
+                      "title": "Laagi Chhoote Na",
+                      "url": "/movies/laagi-chhoote-na-movie-tickets-in-hyderabad-MV236787"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "237818",
+                      "name": "Janak",
+                      "title": "Janak",
+                      "url": "/movies/janak-movie-tickets-in-hyderabad-MV237818"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "231795",
+                      "name": "Ghost Soldier",
+                      "title": "Ghost Soldier",
+                      "url": "/movies/ghost-soldier-movie-tickets-in-hyderabad-MV231795"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "212781",
+                      "name": "Itllu Arjuna",
+                      "title": "Itllu Arjuna",
+                      "url": "/movies/itllu-arjuna-movie-tickets-in-hyderabad-MV212781"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "237819",
+                      "name": "Begni Ronger Alo",
+                      "title": "Begni Ronger Alo",
+                      "url": "/movies/begni-ronger-alo-movie-tickets-in-hyderabad-MV237819"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "226648",
+                      "name": "Black Gold",
+                      "title": "Black Gold",
+                      "url": "/movies/black-gold-movie-tickets-in-hyderabad-MV226648"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "230803",
+                      "name": "Maya Lady",
+                      "title": "Maya Lady",
+                      "url": "/movies/maya-lady-movie-tickets-in-hyderabad-MV230803"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "230033",
+                      "name": "Donga Naa Koduku",
+                      "title": "Donga Naa Koduku",
+                      "url": "/movies/donga-naa-koduku-movie-tickets-in-hyderabad-MV230033"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "232183",
+                      "name": "Lambodhara 2.0",
+                      "title": "Lambodhara 2.0",
+                      "url": "/movies/lambodhara-2-0-movie-tickets-in-hyderabad-MV232183"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "237453",
+                      "name": "John Doe",
+                      "title": "John Doe",
+                      "url": "/movies/john-doe-movie-tickets-in-hyderabad-MV237453"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "225188",
+                      "name": "Wildwood",
+                      "title": "Wildwood",
+                      "url": "/movies/wildwood-movie-tickets-in-hyderabad-MV225188"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "237649",
+                      "name": "Chandrayan",
+                      "title": "Chandrayan",
+                      "url": "/movies/chandrayan-movie-tickets-in-hyderabad-MV237649"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "212635",
+                      "name": "Dark Chocolate",
+                      "title": "Dark Chocolate",
+                      "url": "/movies/dark-chocolate-movie-tickets-in-hyderabad-MV212635"
+                    },
+                    {
+                      "type": "movies",
+                      "id": "227343",
+                      "name": "I Play Rocky",
+                      "title": "I Play Rocky",
+                      "url": "/movies/i-play-rocky-movie-tickets-in-hyderabad-MV227343"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "movies",
+                    "count": 20,
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "url_format": "1",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_hyperlink",
+                    "is_upcoming": true,
+                    "vertical": "movies"
+                  }
+                }
+              },
+              "is_enabled": true,
+              "type": "footer",
+              "titleClassName": "dds-bg-transparent dds-bg-none dds-border-0 dds-border-solid dds-border-transparent dds-border-0"
+            },
+            {
+              "heading_type": "<h2>Movies in {city} by Genre – Action, Comedy, Romance, Thriller &amp; More</h2>",
+              "description": "<p>Discover movies in {city} by your favourite genre — action, comedy, romance, thriller, horror, drama, sci-fi, and family films. Browse genre-wise listings of Bollywood, Hollywood, and regional releases, and book the perfect movie night on District. {movie}</p>",
+              "configs": {
+                "city": {
+                  "place_holder_data": [
+                    {
+                      "type": "cities",
+                      "id": "12",
+                      "name": "Hyderabad",
+                      "title": "Hyderabad",
+                      "url": "/movies/hyderabad-movie-tickets-in-hyderabad-MV12"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "cities",
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_text_only",
+                    "vertical": "movies"
+                  }
+                },
+                "movie": {
+                  "place_holder_data": [
+                    {
+                      "type": "genres",
+                      "id": "Action",
+                      "name": "Action",
+                      "title": "Action",
+                      "url": "/movies/action-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Adventure",
+                      "name": "Adventure",
+                      "title": "Adventure",
+                      "url": "/movies/adventure-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Comedy",
+                      "name": "Comedy",
+                      "title": "Comedy",
+                      "url": "/movies/comedy-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Drama",
+                      "name": "Drama",
+                      "title": "Drama",
+                      "url": "/movies/drama-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Horror",
+                      "name": "Horror",
+                      "title": "Horror",
+                      "url": "/movies/horror-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Science Fiction",
+                      "name": "Science Fiction",
+                      "title": "Science Fiction",
+                      "url": "/movies/science-fiction-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Fantasy",
+                      "name": "Fantasy",
+                      "title": "Fantasy",
+                      "url": "/movies/fantasy-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Romance",
+                      "name": "Romance",
+                      "title": "Romance",
+                      "url": "/movies/romance-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Thriller",
+                      "name": "Thriller",
+                      "title": "Thriller",
+                      "url": "/movies/thriller-movies-in-hyderabad"
+                    },
+                    {
+                      "type": "genres",
+                      "id": "Animation",
+                      "name": "Animation",
+                      "title": "Animation",
+                      "url": "/movies/animation-movies-in-hyderabad"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "genres",
+                    "count": 20,
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "url_format": "5",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_hyperlink",
+                    "vertical": "movies"
+                  }
+                }
+              },
+              "is_enabled": true,
+              "type": "footer",
+              "titleClassName": "dds-bg-transparent dds-bg-none dds-border-0 dds-border-solid dds-border-transparent dds-border-0"
+            },
+            {
+              "heading_type": "<h2>Movies in {city} by Language – Hindi, English, Marathi, Tamil &amp; Telugu</h2>",
+              "description": "<p>Prefer watching movies in your language? Find the latest Hindi, English, Marathi, Tamil, Telugu, Bengali, Kannada, Malayalam, and Punjabi films playing in {city} theatres right now. Check showtimes and book tickets instantly on District. {movie}</p>",
+              "configs": {
+                "city": {
+                  "place_holder_data": [
+                    {
+                      "type": "cities",
+                      "id": "12",
+                      "name": "Hyderabad",
+                      "title": "Hyderabad",
+                      "url": "/movies/hyderabad-movie-tickets-in-hyderabad-MV12"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "cities",
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_text_only",
+                    "vertical": "movies"
+                  }
+                },
+                "movie": {
+                  "place_holder_data": [
+                    {
+                      "type": "language",
+                      "id": "Telugu",
+                      "name": "Telugu",
+                      "title": "Telugu",
+                      "url": "/movies/telugu-movies-tickets-in-hyderabad"
+                    },
+                    {
+                      "type": "language",
+                      "id": "Hindi",
+                      "name": "Hindi",
+                      "title": "Hindi",
+                      "url": "/movies/hindi-movies-tickets-in-hyderabad"
+                    },
+                    {
+                      "type": "language",
+                      "id": "Kannada",
+                      "name": "Kannada",
+                      "title": "Kannada",
+                      "url": "/movies/kannada-movies-tickets-in-hyderabad"
+                    },
+                    {
+                      "type": "language",
+                      "id": "Tamil",
+                      "name": "Tamil",
+                      "title": "Tamil",
+                      "url": "/movies/tamil-movies-tickets-in-hyderabad"
+                    },
+                    {
+                      "type": "language",
+                      "id": "English",
+                      "name": "English",
+                      "title": "English",
+                      "url": "/movies/english-movies-tickets-in-hyderabad"
+                    },
+                    {
+                      "type": "language",
+                      "id": "Malayalam",
+                      "name": "Malayalam",
+                      "title": "Malayalam",
+                      "url": "/movies/malayalam-movies-tickets-in-hyderabad"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "language",
+                    "count": 20,
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "url_format": "6",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_hyperlink",
+                    "vertical": "movies"
+                  }
+                }
+              },
+              "is_enabled": true,
+              "type": "footer",
+              "titleClassName": "dds-bg-transparent dds-bg-none dds-border-0 dds-border-solid dds-border-transparent dds-border-0"
+            },
+            {
+              "heading_type": "<h2>Top Cinemas in {city} – Best Movie Theatres &amp; Multiplexes Near You</h2>",
+              "description": "<p>Find the best cinemas across {city} — from premium experiences like IMAX, ONYX, Insignia, 4DX, and Dolby Atmos to neighbourhood multiplexes and single screens. Pick your favourite theatre and book movie tickets in seconds on District. {cinemas}</p>",
+              "configs": {
+                "cinemas": {
+                  "place_holder_data": [
+                    {
+                      "type": "cinemas",
+                      "id": "1102120",
+                      "name": "Mythri Theatres Ganesh 70MM, (2K Barco Digital Projection), Shamshabad",
+                      "title": "Mythri Theatres Ganesh 70MM, (2K Barco Digital Projection), Shamshabad",
+                      "url": "/movies/mythri-theatres-ganesh-70mm-2k-barco-digital-projection-shamshabad-CD1102120"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "4496",
+                      "name": "Sushma 70MM 2K Dolby Digital, Vanasthalipuram, Hyderabad",
+                      "title": "Sushma 70MM 2K Dolby Digital, Vanasthalipuram, Hyderabad",
+                      "url": "/movies/sushma-70mm-2k-dolby-digital-vanasthalipuram-hyderabad-CD4496"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1102357",
+                      "name": "Santosh Theatre, Ibrahimpatnam",
+                      "title": "Santosh Theatre, Ibrahimpatnam",
+                      "url": "/movies/santosh-theatre-ibrahimpatnam-CD1102357"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "7543",
+                      "name": "Mythri Theatres Sampurna 70MM 2K Dolby Digital, Vanasthalipuram, Hyderabad",
+                      "title": "Mythri Theatres Sampurna 70MM 2K Dolby Digital, Vanasthalipuram, Hyderabad",
+                      "url": "/movies/mythri-theatres-sampurna-70mm-2k-dolby-digital-vanasthalipuram-hyderabad-CD7543"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1046654",
+                      "name": "Sree Sai Puja Theatre 2K, Suraram, Hyderabad",
+                      "title": "Sree Sai Puja Theatre 2K, Suraram, Hyderabad",
+                      "url": "/movies/sree-sai-puja-theatre-2k-suraram-hyderabad-CD1046654"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "183",
+                      "name": "Miraj Cinemas : Shalini Shivani, Kothapet",
+                      "title": "Miraj Cinemas : Shalini Shivani, Kothapet",
+                      "url": "/movies/miraj-cinemas-shalini-shivani-kothapet-CD183"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "4360",
+                      "name": "Viswanath Theater 70mm A/C, Kukatpally, Hyderabad",
+                      "title": "Viswanath Theater 70mm A/C, Kukatpally, Hyderabad",
+                      "url": "/movies/viswanath-theater-70mm-a-c-kukatpally-hyderabad-CD4360"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1040670",
+                      "name": "Platinum Movietime Cinemas, Gachibowli (SLN Terminus), Hyderabad",
+                      "title": "Platinum Movietime Cinemas, Gachibowli (SLN Terminus), Hyderabad",
+                      "url": "/movies/platinum-movietime-cinemas-gachibowli-sln-terminus-hyderabad-CD1040670"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1030419",
+                      "name": "INOX Prism Mall, Gachibowli, Hyderabad",
+                      "title": "INOX Prism Mall, Gachibowli, Hyderabad",
+                      "url": "/movies/inox-prism-mall-gachibowli-hyderabad-CD1030419"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1022263",
+                      "name": "PVR Superplex Inorbit, LUXE PXL 4DX, Cyberabad",
+                      "title": "PVR Superplex Inorbit, LUXE PXL 4DX, Cyberabad",
+                      "url": "/movies/pvr-superplex-inorbit-luxe-pxl-4dx-cyberabad-CD1022263"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1022256",
+                      "name": "PVR RK Cineplex, RK Complex, Hyderabad",
+                      "title": "PVR RK Cineplex, RK Complex, Hyderabad",
+                      "url": "/movies/pvr-rk-cineplex-rk-complex-hyderabad-CD1022256"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1022281",
+                      "name": "PVR Next Galleria Mall, Panjagutta, Hyderabad",
+                      "title": "PVR Next Galleria Mall, Panjagutta, Hyderabad",
+                      "url": "/movies/pvr-next-galleria-mall-panjagutta-hyderabad-CD1022281"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1022282",
+                      "name": "PVR Irrum Manzil, Khairatabad, Hyderabad",
+                      "title": "PVR Irrum Manzil, Khairatabad, Hyderabad",
+                      "url": "/movies/pvr-irrum-manzil-khairatabad-hyderabad-CD1022282"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1102147",
+                      "name": "Mythri Theatres Shiva Ganga (Newly Renovated Ganga 4K Laser, 64 Channel Dolby Atmos)",
+                      "title": "Mythri Theatres Shiva Ganga (Newly Renovated Ganga 4K Laser, 64 Channel Dolby Atmos)",
+                      "url": "/movies/mythri-theatres-shiva-ganga-newly-renovated-ganga-4k-laser-64-channel-dolby-atmos-CD1102147"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1102157",
+                      "name": "PVR Lakeshore Mall, Y Junction, Hyderabad",
+                      "title": "PVR Lakeshore Mall, Y Junction, Hyderabad",
+                      "url": "/movies/pvr-lakeshore-mall-y-junction-hyderabad-CD1102157"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1022290",
+                      "name": "PVR Atrium Mall, Gachibowli, Hyderabad",
+                      "title": "PVR Atrium Mall, Gachibowli, Hyderabad",
+                      "url": "/movies/pvr-atrium-mall-gachibowli-hyderabad-CD1022290"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1102249",
+                      "name": "Sri Venkateswara, Patancheru 4k Dolby 7.1 (Formerly SV Cine Square), Hyderabad",
+                      "title": "Sri Venkateswara, Patancheru 4k Dolby 7.1 (Formerly SV Cine Square), Hyderabad",
+                      "url": "/movies/sri-venkateswara-patancheru-4k-dolby-7-1-formerly-sv-cine-square-hyderabad-CD1102249"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "25026",
+                      "name": "Miraj Cinemas : Raghavendra, Malkajgiri",
+                      "title": "Miraj Cinemas : Raghavendra, Malkajgiri",
+                      "url": "/movies/miraj-cinemas-raghavendra-malkajgiri-CD25026"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1102309",
+                      "name": "Kumar 70MM 2K, Kachiguda, Hyderabad",
+                      "title": "Kumar 70MM 2K, Kachiguda, Hyderabad",
+                      "url": "/movies/kumar-70mm-2k-kachiguda-hyderabad-CD1102309"
+                    },
+                    {
+                      "type": "cinemas",
+                      "id": "1102514",
+                      "name": "Rajdhani 70MM 2K Dolby 7.1, Hyderabad",
+                      "title": "Rajdhani 70MM 2K Dolby 7.1, Hyderabad",
+                      "url": "/movies/rajdhani-70mm-2k-dolby-7-1-hyderabad-CD1102514"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "cinemas",
+                    "count": 20,
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "url_format": "7",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_hyperlink",
+                    "vertical": "movies"
+                  }
+                },
+                "city": {
+                  "place_holder_data": [
+                    {
+                      "type": "cities",
+                      "id": "12",
+                      "name": "Hyderabad",
+                      "title": "Hyderabad",
+                      "url": "/movies/hyderabad-movie-tickets-in-hyderabad-MV12"
+                    }
+                  ],
+                  "req_configs": {
+                    "type": "cities",
+                    "genre": "all",
+                    "city_id": "12",
+                    "context": "user_city_id",
+                    "language": "all",
+                    "lat": 17.39784178559756,
+                    "long": 78.47682085228203,
+                    "city_key": "hyderabad",
+                    "content_type": "dynamic_text_only",
+                    "vertical": "movies"
+                  }
+                }
+              },
+              "is_enabled": true,
+              "type": "footer",
+              "titleClassName": "dds-bg-transparent dds-bg-none dds-border-0 dds-border-solid dds-border-transparent dds-border-0"
+            }
+          ],
+          "snippet_type": "rail_type_seo_footer",
+          "rail_type": "seo_footer"
+        },
+        "serverState": {
+          "movieContents": {
+            "176276": {
+              "languageFormatGroups": [
+                {
+                  "language": "Telugu",
+                  "format": "5kHJz93Zh0",
+                  "is_preferred": false,
+                  "native_language": "తెలుగు",
+                  "number_of_sessions": 262,
+                  "lang": "Telugu",
+                  "fmtGrpId": "5kHJz93Zh0"
+                },
+                {
+                  "language": "Hindi",
+                  "format": "rTb7Dmwvuo",
+                  "is_preferred": false,
+                  "native_language": "हिन्दी",
+                  "number_of_sessions": 190,
+                  "lang": "Hindi",
+                  "fmtGrpId": "rTb7Dmwvuo"
+                },
+                {
+                  "language": "Kannada",
+                  "format": "ze65w2iloyz",
+                  "is_preferred": false,
+                  "native_language": "ಕನ್ನಡ",
+                  "number_of_sessions": 6,
+                  "lang": "Kannada",
+                  "fmtGrpId": "ze65w2iloyz"
+                }
+              ],
+              "isReleased": true,
+              "censor": "U",
+              "contentId": 176276,
+              "name": "Ramayana",
+              "duration": 195,
+              "primary_language": "Hindi",
+              "language_preference_map": {},
+              "upcoming_movie_text": "",
+              "incompleteData": true
+            }
+          },
+          "movieSessions": {
+            "5khjz93zh0": {
+              "serverTime": 1794239725,
+              "meta": {
+                "entityMetaData": {
+                  "entity_ids": "1039848,1102147,1018796,1102120,9291,1020777,1022247,1020781,1022282,1020776,1022251,1102292,1022281,1022283,3870,1022256,1041449,183,1977,1040594,13958,9123,25026,1084596,126,9338,1022263,1102157,1020782,1022280,9478,52274,1022285,1039952,1099532,56048,1101585,1022290,1030419,1022267,1040670,124,1022248,24951,1041683",
+                  "num_show_total": "1,1,1,1,1,1,2,2,2,1,1,1,3,2,1,1,1,2,1,1,1,2,1,1,2,1,2,2,2,1,1,2,1,4,1,1,1,1,1,4,2,2,2,1,1",
+                  "max_price_cinema": "235.0,235.0,175.0,175.0,175.0,295.0,385.0,400.0,479.0,400.0,330.0,175.0,400.0,345.0,250.0,400.0,175.0,350.0,404.0,350.0,175.0,400.0,275.0,380.0,300.0,350.0,774.0,404.0,400.0,400.0,175.0,394.0,345.0,400.0,295.0,175.0,175.0,400.0,400.0,400.0,380.0,400.0,400.0,235.0,380.0",
+                  "min_price_cinema": "50.0,50.0,50.0,50.0,50.0,295.0,330.0,295.0,345.0,345.0,330.0,50.0,295.0,295.0,250.0,345.0,50.0,295.0,345.0,325.0,50.0,295.0,215.0,325.0,250.0,295.0,538.0,295.0,345.0,345.0,50.0,335.0,345.0,295.0,295.0,50.0,50.0,345.0,345.0,295.0,350.0,295.0,295.0,175.0,325.0",
+                  "cinema_distance": "7.813225140292441,6.387788524641093,6.247393091716469,17.417051224251043,6.243854033208755,1.4659382674525032,2.2738784145805,3.422636838114202,3.4266785699568545,3.8454907635255866,4.063093117153423,4.133793755591892,4.445416968650154,4.515033487562242,5.213246634904056,5.922399070660995,6.6158722996555,7.139019752968363,7.717063714889017,7.78678443197704,8.198407152541112,8.311921576064542,8.641151383502018,8.666913687948066,9.17727410638983,9.861748427149116,10.414794457737587,10.526719265750813,11.018226130321333,11.261319569539994,11.377111026426489,11.479789140833809,11.558258214464475,11.676623476267256,12.480940399076077,12.626721588199073,13.063232647979806,13.083590821869334,13.091673316169683,13.379477722613004,13.517092651517627,13.552181875543756,16.81754271487784,17.02005636847287,17.197207028647053",
+                  "screen_format_dict": "{\"1099532\":[\"2D\"],\"1102292\":[\"2D\"],\"9123\":[\"3D\",\"2D\"],\"1022256\":[\"3D\"],\"1018796\":[\"3D\"],\"1020776\":[\"3D\"],\"25026\":[\"3D\"],\"24951\":[\"2D\"],\"1020777\":[\"3D\"],\"52274\":[\"3D\"],\"1039952\":[\"3D\",\"2D\"],\"1022290\":[\"3D\"],\"1102157\":[\"3D\",\"2D\"],\"1101585\":[\"2D\"],\"1022251\":[\"3D\"],\"1977\":[\"3D\"],\"1020781\":[\"3D\",\"2D\"],\"1022263\":[\"3D\",\"2D\"],\"1022285\":[\"3D\"],\"1022247\":[\"3D\"],\"9338\":[\"2D\"],\"1020782\":[\"3D\"],\"1022248\":[\"3D\",\"2D\"],\"3870\":[\"2D\"],\"9478\":[\"2D\"],\"1022267\":[\"3D\",\"2D\"],\"1102120\":[\"2D\"],\"9291\":[\"2D\"],\"183\":[\"2D\"],\"1041449\":[\"3D\"],\"13958\":[\"3D\"],\"1084596\":[\"3D\"],\"124\":[\"3D\",\"2D\"],\"1039848\":[\"3D\"],\"126\":[\"3D\",\"2D\"],\"56048\":[\"3D\"],\"1102147\":[\"2D\"],\"1040594\":[\"3D\"],\"1041683\":[\"3D\"],\"1022280\":[\"3D\"],\"1040670\":[\"3D\",\"2D\"],\"1022283\":[\"3D\",\"2D\"],\"1022281\":[\"3D\",\"2D\"],\"1022282\":[\"3D\",\"4DX-3D\"],\"1030419\":[\"3D\"]}",
+                  "show_language_dict": "{\"1099532\":[\"default_language\"],\"1102292\":[\"default_language\"],\"9123\":[\"default_language\"],\"1022256\":[\"default_language\"],\"1018796\":[\"default_language\"],\"1020776\":[\"default_language\"],\"25026\":[\"default_language\"],\"24951\":[\"default_language\"],\"1020777\":[\"default_language\"],\"52274\":[\"default_language\"],\"1039952\":[\"default_language\"],\"1022290\":[\"default_language\"],\"1102157\":[\"default_language\"],\"1101585\":[\"default_language\"],\"1022251\":[\"default_language\"],\"1977\":[\"default_language\"],\"1020781\":[\"default_language\"],\"1022263\":[\"default_language\"],\"1022285\":[\"default_language\"],\"1022247\":[\"default_language\"],\"9338\":[\"default_language\"],\"1020782\":[\"default_language\"],\"1022248\":[\"default_language\"],\"3870\":[\"default_language\"],\"9478\":[\"default_language\"],\"1022267\":[\"default_language\"],\"1102120\":[\"default_language\"],\"9291\":[\"default_language\"],\"183\":[\"default_language\"],\"1041449\":[\"default_language\"],\"13958\":[\"default_language\"],\"1084596\":[\"default_language\"],\"124\":[\"default_language\"],\"1039848\":[\"default_language\"],\"126\":[\"default_language\"],\"56048\":[\"default_language\"],\"1102147\":[\"default_language\"],\"1040594\":[\"default_language\"],\"1041683\":[\"default_language\"],\"1022280\":[\"default_language\"],\"1040670\":[\"default_language\"],\"1022283\":[\"default_language\"],\"1022281\":[\"default_language\"],\"1022282\":[\"default_language\"],\"1030419\":[\"default_language\"]}",
+                  "prev_ordered_cinema": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+                }
+              },
+              "showDates": [
+                "2026-11-09",
+                "2026-11-10",
+                "2026-11-11",
+                "2026-11-12"
+              ],
+              "amenities": {
+                "1": {
+                  "id": 1,
+                  "name": "Mobile Ticket",
+                  "rank": 2,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Mobile%20Ticket-bc527a30-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "2": {
+                  "id": 2,
+                  "name": "Parking",
+                  "rank": 1,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+                },
+                "3": {
+                  "id": 3,
+                  "name": "Food & Beverages",
+                  "rank": 3,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/F%26B-938587f0-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "4": {
+                  "id": 4,
+                  "name": "Wheelchair Friendly",
+                  "rank": 6,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Wheelchair-73f627a0-95f6-11ef-a253-33f238ee5f34.png"
+                },
+                "5": {
+                  "id": 5,
+                  "name": "Recliners",
+                  "rank": 4,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "6": {
+                  "id": 6,
+                  "name": "Digital Payments",
+                  "rank": 5,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Payment-eab8cb00-95f5-11ef-a253-33f238ee5f34.png"
+                },
+                "7": {
+                  "id": 7,
+                  "name": "RGB Laser",
+                  "rank": 7,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+                },
+                "8": {
+                  "id": 8,
+                  "name": "Dolby Atmos",
+                  "rank": 8,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "9": {
+                  "id": 9,
+                  "name": "IMAX",
+                  "rank": 9,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+                },
+                "10": {
+                  "id": 10,
+                  "name": "4K",
+                  "rank": 10,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+                },
+                "12": {
+                  "id": 12,
+                  "name": "WIFI",
+                  "rank": 12,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Wifi-5646f900-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "14": {
+                  "id": 14,
+                  "name": "Gaming Zone",
+                  "rank": 14,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Gaming-d3353df0-95f6-11ef-a253-33f238ee5f34.png"
+                },
+                "15": {
+                  "id": 15,
+                  "name": "2K",
+                  "rank": 15,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+                },
+                "17": {
+                  "id": 17,
+                  "name": "4DX",
+                  "rank": 17,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+                },
+                "18": {
+                  "id": 18,
+                  "name": "Dolby 7.1",
+                  "rank": 18,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "19": {
+                  "id": 19,
+                  "name": "Air Conditioning",
+                  "rank": 19,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/AC-d92791f0-95f5-11ef-b954-a1c7e1e4be25.png"
+                },
+                "20": {
+                  "id": 20,
+                  "name": "Metro Nearby",
+                  "rank": 20,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Metro-08856cb0-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "21": {
+                  "id": 21,
+                  "name": "Sofa",
+                  "rank": 21,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Seat-13023560-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "24": {
+                  "id": 24,
+                  "name": "Silver Screen",
+                  "rank": 24,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+                },
+                "28": {
+                  "id": 28,
+                  "name": "Free Parking",
+                  "rank": 28,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Parking-c79a3400-95f6-11ef-a253-33f238ee5f34.png"
+                },
+                "29": {
+                  "id": 29,
+                  "name": "Baggage Counter",
+                  "rank": 29,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Baggage%20counter-f4cbae50-95f5-11ef-a253-33f238ee5f34.png"
+                },
+                "30": {
+                  "id": 30,
+                  "name": "Dolby 4 Way 11.1",
+                  "rank": 30,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Audio-4acee060-95f6-11ef-b954-a1c7e1e4be25.png"
+                },
+                "31": {
+                  "id": 31,
+                  "name": "Barco 4K Ultra HD",
+                  "rank": 31,
+                  "icon_url": "https://cdn.district.in/movies-assets/images/cinema/Screen-fef54df0-95f5-11ef-b954-a1c7e1e4be25.png"
+                }
+              },
+              "selectedShowDate": "2026-11-09",
+              "pageMeta": null
+            }
+          },
+          "movie": {
+            "content_id": 176276,
+            "name": "Ramayana",
+            "description": "When Rakshasa emperor Ravana, invincible to all but man, conquers the three worlds, Lord Vishnu descends as noble prince Rama. Bound by his father's vow, Rama enters perilous exile with virtuous Sita and devoted Lakshmana. When Ravana abducts Sita, God in human form rises to fight the greatest war ever.\n\nAccessibility through Audio Description (AD) & Closed Captions (CC) is available for this movie on the 'CineDubs' app.\n",
+            "release_date": "2026-11-05",
+            "re_release_date": null,
+            "upcoming_movie_text": "",
+            "duration": 195,
+            "censor": "U",
+            "primary_language": "Hindi",
+            "languages": [
+              "Telugu",
+              "Hindi",
+              "Kannada"
+            ],
+            "genre": [
+              "Epic",
+              "Mythological"
+            ],
+            "poster": "https://b.zmtcdn.com/data/edition_assets/17933642591586782.jpg",
+            "trailer": "https://youtu.be/ATXNE61Y4RU",
+            "teaser": null,
+            "heroTrailer": "https://youtu.be/ATXNE61Y4RU",
+            "heroYtId": "ATXNE61Y4RU",
+            "heroTrailerLanguage": "Hindi",
+            "promotional_banners": null,
+            "promotional_banners_light": null,
+            "cast_info": [
+              {
+                "cast_name": "Ranbir Kapoor",
+                "cast_image": "https://cdn.district.in/movies-assets/images/cinema/cast-image-200x200%20-%202026-10-09T211935.273-0be44ba0-c3f9-11f1-b658-459f070417ac.png",
+                "cast_role": null,
+                "cast_id": 176277,
+                "cast_bio": "Ranbir Kapoor debuted with the Sanjay Leela Bhansali directorial Saawariya in 2007. From thereon there has been no going back for the acclaimed actor. He has consistently been giving blockbuster performances in movies such as Wake Up Sid (2009), Ajab Prem Ki Gazab Kahani (2009), Rocket Singh: Salesman of the Year (2009), Rajneeti (2010), Barfi! (2012), Yeh Jawani Hai Deewani (2013), Tamasha (2015), Ae Dil Hai Mushkil (2016) and many more. He is considered to be one of the most talented young Bollywood actors. He is the son of actors Rishi Kapoor and Neetu Kapoor and the grandson of legendary actor Late Raj Kapoor."
+              },
+              {
+                "cast_name": "Yash",
+                "cast_image": "https://cdn.district.in/movies-assets/images/cinema/Yash-3f494960-c11b-11ef-8ba8-c5ca47b54ab7.png",
+                "cast_role": "Actor/Producer",
+                "cast_id": 201299,
+                "cast_bio": "Yash, also known as Naveen Kumar Gowda, is an actor recognized for his work in theater, TV soaps and the Kannada film industry. He made his big screen debut with the 2007 film Jambada Hudugi. His performance was widely appreciated and also earned him the Filmfare Award followed by SIIMA and IIFA among others. Some of his best known films also include Thamassu, Lucky, Jaanu, Gajakesari, Masterpiece and Santhu Straight Forward."
+              },
+              {
+                "cast_name": "Sai Pallavi",
+                "cast_image": "https://cdn.district.in/movies-assets/images/cinema/Sai-Pallavi-005f97f0-c11a-11ef-8894-edd289cbd28d.png",
+                "cast_role": null,
+                "cast_id": 176280,
+                "cast_bio": "Sai Pallavi is an actress who works in Malayalam, Tamil and Telugu film industries. She made her Telugu debut playing the role Bhanumati in the 2017 romantic film Fidaa. She went on to appear in films like Kanam, Diya and Middle Class Abbayi among others. Her performances have been widely appreciated."
+              },
+              {
+                "cast_name": "Ravie Dubey",
+                "cast_image": "https://cdn.district.in/movies-assets/images/cinema/ravidubey-98c3c950-57f4-11f0-b03a-f9f12779d145.jpeg",
+                "cast_role": null,
+                "cast_id": 201298,
+                "cast_bio": ""
+              },
+              {
+                "cast_name": "Sunny Deol",
+                "cast_image": "https://cdn.district.in/movies-assets/images/cinema/sunny-deol-ce3ceff0-a0f0-11ef-bcb4-756b1856d2eb.jpg",
+                "cast_role": null,
+                "cast_id": 176279,
+                "cast_bio": "A winner of two National Film Awards and two Filmfare Awards, Sunny Deol is an actor popular for his work in Bollywood. Considered as one of the best action heroes of Hindi cinema, Deol comes from a family of many successful film stars. Some of his best known works include Betaab, The Hero: Love Story of a Spy, Ghayal, Damini, Ziddi, Border, Arjun Pandit, Farz and the Yamla Pagla Deewana film series."
+              },
+              {
+                "cast_name": "Arun Govil",
+                "cast_image": "https://cdn.district.in/movies-assets/images/cinema/Arun1-30dc8d90-1fbb-11ee-b8a1-4127b2988ca2.jpg",
+                "cast_role": null,
+                "cast_id": 201313,
+                "cast_bio": "Arun Govil is an Indian actor. He is best known for portraying Lord Rama in Ramayan TV series. He also appeared in films like Paheli, Sawan Ko Aane Do, Saanch Ko Aanch Nahin, Jiyo To Aise Jiyo, Himmatwala, Dilwaala, and Govinda Govinda."
+              },
+              {
+                "cast_name": "Lara Dutta",
+                "cast_image": "https://cdn.district.in/movies-assets/images/cinema/cast-image-200x200%20-%202026-10-09T210934.03"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
