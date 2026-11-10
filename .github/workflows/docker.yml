@@ -2,7 +2,7 @@ name: docker
 
 on:
   push:
-    branches: [main]
+    branches: [godzilla]
   workflow_dispatch:
 
 concurrency:
@@ -64,6 +64,6 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: ghcr.io/${{ github.repository }}:latest
+          tags: ghcr.io/${{ github.repository }}:godzilla
           cache-from: type=gha
           cache-to: type=gha,mode=max
